@@ -1,18 +1,18 @@
 {
     "personalInfo": {
         "myimg": "profilePic.jpg",
-        "fname": "Shubham",
-        "mname": "Parashram",
-        "lname": "Sawant",
-        "nick": "moghya",
+        "fname": "Srinivas",
+        "mname": "Reddy",
+        "lname": "Pendyala",
+        "nick": "srini",
         "address": {
             "list": [
                 "Gupta Layout, Mahakali road, Washim, District-Washim, Maharashtra, India 444505 ",
                 "'OM' Jaihind colony, Vishrambag, Sangli District-Sangli, Maharashtra, India 416415"
             ]
         },
-        "email": "sawantshubham571@gmail.com",
-        "mob": "+91 9881 464 434 | +49 1721 457 523"
+        "email": "srinivasreddy.aiops@gmail.com",
+        "mob": "+91 903 245 1998"
     },
     "educations": [{
             "periodStart": "Jul'14",
