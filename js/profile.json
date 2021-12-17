@@ -1,0 +1,890 @@
+{
+    "personalInfo": {
+        "myimg": "profilePic.jpg",
+        "fname": "Shubham",
+        "mname": "Parashram",
+        "lname": "Sawant",
+        "nick": "moghya",
+        "address": {
+            "list": [
+                "Gupta Layout, Mahakali road, Washim, District-Washim, Maharashtra, India 444505 ",
+                "'OM' Jaihind colony, Vishrambag, Sangli District-Sangli, Maharashtra, India 416415"
+            ]
+        },
+        "email": "sawantshubham571@gmail.com",
+        "mob": "+91 9881 464 434 | +49 1721 457 523"
+    },
+    "educations": [{
+            "periodStart": "Jul'14",
+            "periodEnd": "May'18",
+            "course": "B.Tech Information Technology",
+            "score": "7.59 CGPA",
+            "inst": "Walchand College of Engineering, Sangli",
+            "board": "Shivaji University",
+            "courses": [{
+                    "courseCode": "3IT202",
+                    "courseName": "Data Structures",
+                    "courseScore": "9/10",
+                    "sn": 1
+                },
+                {
+                    "courseCode": "3IT304",
+                    "courseName": "Computer Algorithms",
+                    "courseScore": "7/10",
+                    "sn": 2
+                },
+                {
+                    "courseCode": "3IT331",
+                    "courseName": "Machine Learning",
+                    "courseScore": "10/10",
+                    "sn": 3
+                },
+                {
+                    "courseCode": "3OE---",
+                    "courseName": "Data Analytics",
+                    "courseScore": "8/10",
+                    "sn": 4
+                },
+                {
+                    "courseCode": "3IT211",
+                    "courseName": "Theory of Computation",
+                    "courseScore": "8/10",
+                    "sn": 5
+                },
+                {
+                    "courseCode": "3IT201",
+                    "courseName": "Discrete Mathemactics",
+                    "courseScore": "7/10",
+                    "sn": 6
+                },
+                {
+                    "courseCode": "3IT303",
+                    "courseName": "Operating System",
+                    "courseScore": "8/10",
+                    "sn": 10
+                },
+                {
+                    "courseCode": "3IT322",
+                    "courseName": "Unix Operating System",
+                    "courseScore": "8/10",
+                    "sn": 11
+                },
+                {
+                    "courseCode": "3IT301",
+                    "courseName": "Database Engineering",
+                    "courseScore": "9/10",
+                    "sn": 12
+                },
+                {
+                    "courseCode": "3IT321",
+                    "courseName": "Advanced Database Engineering",
+                    "courseScore": "9/10",
+                    "sn": 13
+                },
+                {
+                    "courseCode": "3IT204",
+                    "courseName": "Data Communication & Networking",
+                    "courseScore": "7/10",
+                    "sn": 15
+                },
+                {
+                    "courseCode": "3IT213",
+                    "courseName": "Computer & Wireless Networks",
+                    "courseScore": "6/10",
+                    "sn": 16
+                },
+                {
+                    "courseCode": "3IT263",
+                    "courseName": "Computer & Wireless Networks Lab",
+                    "courseScore": "8/10",
+                    "sn": 34
+                },
+                {
+                    "courseCode": "3IT212",
+                    "courseName": "Computer Organization & Architechture",
+                    "courseScore": "7/10",
+                    "sn": 18
+                },
+                {
+                    "courseCode": "3IT372",
+                    "courseName": "Parallel Programming Lab",
+                    "courseScore": "10/10",
+                    "sn": 32
+                },
+                {
+                    "courseCode": "3IT324",
+                    "courseName": "Information Storage & Management",
+                    "courseScore": "6/10",
+                    "sn": 21
+                },
+                {
+                    "courseCode": "3MA204",
+                    "courseName": "Linear Algebra",
+                    "courseScore": "7/10",
+                    "sn": 7
+                },
+                {
+                    "courseCode": "3MA215",
+                    "courseName": "Statistics & Fuzzy Systems",
+                    "courseScore": "6/10",
+                    "sn": 8
+                },
+                {
+                    "courseCode": "3IT252",
+                    "courseName": "Data Structures Lab",
+                    "courseScore": "10/10",
+                    "sn": 29
+                },
+                {
+                    "courseCode": "3IT203",
+                    "courseName": "Processor Architechture",
+                    "courseScore": "7/10",
+                    "sn": 17
+                },
+                {
+                    "courseCode": "3IT281",
+                    "courseName": "Mini Project - I",
+                    "courseScore": "10/10",
+                    "sn": 22
+                },
+                {
+                    "courseCode": "3IT214",
+                    "courseName": "System Programming",
+                    "courseScore": "7/10",
+                    "sn": 19
+                },
+                {
+                    "courseCode": "3IT255",
+                    "courseName": "Programming Lab - I (C++)",
+                    "courseScore": "10/10",
+                    "sn": 26
+                },
+                {
+                    "courseCode": "3IT352",
+                    "courseName": "Web Technology Lab",
+                    "courseScore": "9/10",
+                    "sn": 33
+                },
+                {
+                    "courseCode": "3IT342",
+                    "courseName": "Mini Project - IV",
+                    "courseScore": "10/10",
+                    "sn": 25
+                },
+                {
+                    "courseCode": "3IT341",
+                    "courseName": "Mini-Project - III",
+                    "courseScore": "10/10",
+                    "sn": 24
+                },
+                {
+                    "courseCode": "3IT302",
+                    "courseName": "Software Engineering Design",
+                    "courseScore": "7/10",
+                    "sn": 20
+                },
+                {
+                    "courseCode": "3IT371",
+                    "courseName": "Unix Operating System Lab",
+                    "courseScore": "10/10",
+                    "sn": 30
+                },
+                {
+                    "courseCode": "3IT282",
+                    "courseName": "Mini Project - II",
+                    "courseScore": "10/10",
+                    "sn": 23
+                },
+                {
+                    "courseCode": "3IT265",
+                    "courseName": "Programming Lab - II (Java)",
+                    "courseScore": "10/10",
+                    "sn": 27
+                },
+                {
+                    "courseCode": "3IT312",
+                    "courseName": "Cloud Computing",
+                    "courseScore": "7/10",
+                    "sn": 14
+                },
+                {
+                    "courseCode": "3IT323",
+                    "courseName": "Information Theory",
+                    "courseScore": "8/10",
+                    "sn": 9
+                },
+                {
+                    "courseCode": "2IT253",
+                    "courseName": "Processor Architechture Lab",
+                    "courseScore": "10/10",
+                    "sn": 28
+                },
+                {
+                    "courseCode": "3IT351",
+                    "courseName": "Database Engineering Lab",
+                    "courseScore": "10/10",
+                    "sn": 31
+                }
+            ]
+        },
+        {
+            "periodStart": "Apr'13",
+            "periodEnd": "May'14",
+            "course": "All India Senior School Examination",
+            "score": "89.4%",
+            "inst": "Jawahar Navodaya Vidyalaya,Washim",
+            "board": "CBSE Chennai",
+            "courses": [{
+                    "courseCode": "041",
+                    "courseName": "Mathemactics",
+                    "courseScore": "86/100",
+                    "sn": 1
+                },
+                {
+                    "courseCode": "042",
+                    "courseName": "Physics",
+                    "courseScore": "87/100",
+                    "sn": 2
+                },
+                {
+                    "courseCode": "043",
+                    "courseName": "Chemistry",
+                    "courseScore": "86/100",
+                    "sn": 3
+                },
+                {
+                    "courseCode": "083",
+                    "courseName": "Computer Science",
+                    "courseScore": "94/100",
+                    "sn": 4
+                }
+            ]
+        }
+    ],
+    "skills": [
+        ["C", "devicon-c-plain colored"],
+        ["C++", "devicon-cplusplus-plain colored"],
+        ["Python", "devicon-python-plain colored"],
+        ["JavaScript", "devicon-javascript-plain colored"],
+        ["NodeJS", "devicon-nodejs-plain colored"],
+        ["Go", "devicon-go-plain colored"],
+        ["PHP", "devicon-php-plain colored"],
+        ["MySQL", "devicon-mysql-plain colored"],
+        ["MongoDB", "devicon-mongodb-plain colored"],
+        ["Redis", "devicon-redis-plain colored"],
+        ["Linux", "devicon-linux-plain"],
+        ["Bash", "devicon-bash-plain"],
+        ["GCC", "devicon-gcc-plain colored"],
+        ["Ubuntu", "devicon-ubuntu-plain colored"],
+        ["Git", "devicon-git-plain colored"],
+        ["Docker", "devicon-docker-plain colored"],
+        ["Jenkins", "devicon-jenkins-plain colored"],
+        ["Digital Ocean", "devicon-digitalocean-plain colored"],
+        ["AWS", "devicon-amazonwebservices-original colored"],
+        ["HTML5", "devicon-html5-plain colored"],
+        ["CSS3", "devicon-css3-plain colored"],
+        ["VSCode", "devicon-vscode-plain colored"],
+        ["GitHub", "devicon-github-plain"],
+        ["Jira", "devicon-jira-plain colored"]
+    ],
+    "experince": [{
+            "sn": 6,
+            "link": "",
+            "workPosition": "Scout Troop Leader",
+            "periodStart": "April'10",
+            "periodEnd": "May'12",
+            "organisation": "JNV,Washim",
+            "experience": "It was nice to be a part of Scouting.Arranged camps,hikes & awareness rallies.",
+            "type": "volunteer"
+        },
+        {
+            "sn": 5,
+            "link": "http://wcepace.in/",
+            "workPosition": "Asst. Program Director in Events",
+            "periodStart": "Apr'15",
+            "periodEnd": "Mar'16",
+            "organisation": "Personality Advancement Circle of Engineers.",
+            "experience": "Learnt how to organize professional events & actvites, how to manage resources & make most out of everything.",
+            "type": "volunteer"
+        },
+        {
+            "sn": 4,
+            "link": "http://wcepace.in/",
+            "workPosition": "Joint. Skills Developer",
+            "periodStart": "Apr'16",
+            "periodEnd": "Jan'17",
+            "organisation": "Personality Advancement Circle of Engineers.",
+            "experience": "Good to arrange Meet ups for professional skill development of fellow PACErs.",
+            "type": "volunteer"
+        },
+        {
+            "sn": 3,
+            "link": "http://wcepace.in/",
+            "workPosition": "Cheif. Skills Developer",
+            "periodStart": "Jan'17",
+            "periodEnd": "Dec'17",
+            "organisation": "Personality Advancement Circle of Engineers.",
+            "experience": [
+                "Good to arrange Meet ups for professional skill development of fellow PACErs."
+            ],
+            "type": "volunteer"
+        },
+        {
+            "sn": 2,
+            "link": "http://pitchteq.com/",
+            "workPosition": "PHP Developer",
+            "periodStart": "Jul'16",
+            "periodEnd": "Jul'18",
+            "organisation": "PitchTeQ ",
+            "experience": [
+                "A group of college students established a web solutions startup. Worked on an e-commerce project."
+            ],
+            "type": "volunteer"
+        },
+        {
+            "sn": 1,
+            "link": "http://www.praxisinfotech.com/",
+            "workPosition": "Web Development Intern",
+            "periodStart": "Jun'17",
+            "periodEnd": "Jul'17",
+            "organisation": "Praxis Infotech ",
+            "experience": [
+                "Developed a PHP, MySQL web application. Added a layer on top of Google maps for places & events."
+            ],
+            "type": "volunteer"
+        },
+        {
+            "sn": 0,
+            "link": "https://www.media.net/",
+            "workPosition": "Software Development Engineer",
+            "periodStart": "Jul'18",
+            "periodEnd": "Feb'20",
+            "organisation": "Media.Net",
+            "experience": [{
+                    "team": "Team: VPN & Proxy Service",
+                    "periodStart": "Aug'19",
+                    "periodEnd": "Feb'20",
+                    "details": [
+                        "Configured & deployed Proxy & VPN servers. Developed & distributed Chrome & Firefox proxy browser extensions.",
+                        "Developed & deployed multi-threaded, UDP sockets based DNS server using C++."
+                    ]
+                },
+                {
+                    "team": "Team: Applications Distribution Platform",
+                    "periodStart": "Sep'18",
+                    "periodEnd": "Aug'19",
+                    "details": [
+                        "Developed templated code for full stack Web & Desktop applications. Automated application build & monitoring processes.",
+                        "Performed extensive research, analysis for POC creation of novel solutions to business requirements.",
+                        "Developed MacOs (Safari App Extension) app for search monetisation using Swift with installer & auto-updater features from scratch.",
+                        "Developed node-js module to restructure & rename source directory."
+                    ]
+                },
+                {
+                    "team": "Team: Email Marketing Platform",
+                    "periodStart": "Jul'18",
+                    "periodEnd": "Sep'18",
+                    "details": [
+                        "Developed feature to use RSS feed for email creative creation."
+                    ]
+                }
+            ],
+            "type": "work",
+            "status": "Fulltime",
+            "location": "Mumbai, India"
+        },
+        {
+            "sn": -1,
+            "link": "https://www.cohesity.com",
+            "workPosition": "Member of Technical Staff 3",
+            "periodStart": "Feb'20",
+            "periodEnd": "July'21",
+            "organisation": "Cohesity",
+            "experience": [{
+                "team": "Squad: Data Protection Virtualisation",
+                "periodStart": "Feb'20",
+                "periodEnd": "July'21",
+                "details": [
+                    "Developed Distributed Data Protection System Software using Modern C++, Google Protobufs, gRPC.",
+                    "Reviwed Product Requirement documents and created Software System Design documents.",
+                    "Planned & Executed End-to-End feature development following Agile Sprint Methodology.",
+                    "Delivered highly Robust, Distributed, Crash-consistent, Asynchronous, Multi-threaded C++ code.",
+                    "Responsibilities included Designing, Developing & Optimizing Backup & Recovery solutions.",
+                    "Debugging & Resolving Customer Escalations by actively getting on Customer calls.",
+                    "Differential Restore of VMware VMs: Designed, developed & integrated the feature, resulting in reduced amount of data transfer for VM recovery.",
+                    "Application Consistent Backup of Acropolis AHV VMs using Nutanix Guest Tools: Designed, developed & integrated reducing backup stun issues.",
+                    "Data Protect Source Connectivity Verification: Designed, developed & integrated a new data protect source connectivity verification feature.",
+                    "Netapp Storage Snapshot Management: Designed & developed new backup solution for Netapp Storage Array Snapshots Management."
+                ]
+            }],
+            "type": "work",
+            "status": "Fulltime",
+            "location": "Remote / Pune, India"
+        },
+        {
+            "sn": -2,
+            "link": "https://www.bloomberg.com",
+            "workPosition": "Senior Software Engineer",
+            "periodStart": "Aug'21",
+            "periodEnd": "Present",
+            "organisation": "Bloomberg Lp",
+            "experience": [{
+                "team": "Team: Exchange Trading Connectivity Europe",
+                "periodStart": "Aug'21",
+                "periodEnd": "Present",
+                "details": [
+                    "Developing Exchange Trading Connectivity Software Solutions using C++, Python & FIX."
+                ]
+            }],
+            "type": "work",
+            "status": "Fulltime",
+            "location": "Frankfurt am Main, Germany"
+        }
+    ],
+    "projects": [{
+            "show": false,
+            "sn": 14,
+            "projectTitle": "Traffic Rules",
+            "periodStart": "Jul'15",
+            "periodEnd": "Nov'15",
+            "toolsUsed": [
+                "Blender",
+                "Movie Maker"
+            ],
+            "tags": [
+                "blender",
+                "animation",
+                "3d-modelling",
+                "traffic rules"
+            ],
+            "info": [
+                "Its a 3D animation video made using Blender Tool for spreading awareness regarding Traffic rules. Mini project for semester III."
+            ],
+            "link": "https://github.com/moghya/Traffic-Rules"
+        },
+        {
+            "show": true,
+            "sn": 13,
+            "projectTitle": "Smart Hospital Management",
+            "periodStart": "Aug'15",
+            "periodEnd": "Sep'15",
+            "toolsUsed": [
+                "c++",
+                "qt"
+            ],
+            "tags": [
+                "oop",
+                "c++",
+                "qt",
+                "gui",
+                "files"
+            ],
+            "info": [
+                "Developed a C++ Qt Desktop application to keep track of patient & visits.",
+                "Mini project for Data Structures course."
+            ],
+            "link": "https://github.com/moghya/smartHMS"
+        },
+        {
+            "show": true,
+            "sn": 12,
+            "projectTitle": "Seat Allocation",
+            "periodStart": "Dec'15",
+            "periodEnd": "Dec'15",
+            "toolsUsed": [
+                "c++"
+            ],
+            "tags": [
+                "c++",
+                "gayle-shapely",
+                "ds",
+                "oop"
+            ],
+            "info": [
+                "C++ Implementation of modified Gayle-Shapely algorithm for Simulation of college seat allocation process.",
+                "Candidates' Choice filling & Seat Allocation is implemented."
+            ],
+            "link": "https://github.com/moghya/collegeSeatAllocationPrototype"
+        },
+        {
+            "show": true,
+            "sn": 11,
+            "projectTitle": "Online External Examination Portal",
+            "periodStart": "Feb'16",
+            "periodEnd": "May'16",
+            "toolsUsed": [
+                "php",
+                "js",
+                "mysql",
+                "html",
+                "css",
+                "bootstrap"
+            ],
+            "tags": [
+                "php",
+                "js",
+                "bootstrap",
+                "mysql"
+            ],
+            "info": [
+                "Web application developed using PHP , MySQL, Bootstrap, JavaScript for conducting lab exams online."
+            ],
+            "link": "https://github.com/moghya/external-exam-portal"
+        },
+        {
+            "show": false,
+            "sn": 9,
+            "projectTitle": "LookIn",
+            "periodStart": "Mar'16",
+            "periodEnd": "May'16",
+            "toolsUsed": [
+                "python",
+                "sqllite3",
+                "beautifulsoup",
+                "requests"
+            ],
+            "tags": [
+                "search engine",
+                "python",
+                "indexing",
+                "web scraping"
+            ],
+            "info": [
+                "Simple search engine developed using Python modules such as Beautifulsoup, Requests.",
+                "Crawler is implemented to crawl downloaded websites & create indexes.",
+                "Built index is stored in sqlite3 db. This index is queried to return search results."
+            ],
+            "link": ""
+        },
+        {
+            "show": true,
+            "sn": 3,
+            "projectTitle": "dsalglib ",
+            "periodStart": "May'16",
+            "periodEnd": "Present",
+            "toolsUsed": [
+                "c++",
+                "cmake"
+            ],
+            "tags": [
+                "ds",
+                "algo",
+                "template",
+                "c++"
+            ],
+            "info": [
+                "Templated Object Oriented C++ library of 15+ data structures & algorithms.",
+                "Attempt of developing something similar to that of STL from scratch."
+            ],
+            "link": "https://moghya.me/dsalglib/"
+        },
+        {
+            "show": true,
+            "sn": 1,
+            "projectTitle": "Strategic Location using Facebook Data",
+            "periodStart": "Dec'16",
+            "periodEnd": "Dec'16",
+            "toolsUsed": [
+                "python",
+                "scikit-learn",
+                "ipynb",
+                "graph-api"
+            ],
+            "tags": [
+                "machine-learning",
+                "regression",
+                "python"
+            ],
+            "info": [
+                "Applied Machine Learning techniques & built a model to predict Facebook Check-ins at a desired location for business."
+            ],
+            "link": "https://github.com/moghya/Stratergic-Location"
+        },
+        {
+            "show": true,
+            "sn": 2,
+            "projectTitle": "prowessIndex",
+            "periodStart": "Jun'17",
+            "periodEnd": "Jun'17",
+            "toolsUsed": [
+                "python",
+                "flask",
+                "pandas"
+            ],
+            "tags": [
+                "python",
+                "data analytics"
+            ],
+            "info": [
+                "Flask web application serving implementation of a paper that I worked on.",
+                "'Making Sense of Numbers' is paper that proposes method for deriving inferences about prowess of a stduent in certain skills by using attained grades in university exams."
+            ],
+            "link": "https://novatoscript.pythonanywhere.com/"
+        },
+        {
+            "show": true,
+            "sn": 7,
+            "projectTitle": "FollowScreen",
+            "periodStart": "Jul'16",
+            "periodEnd": "Jul'16",
+            "toolsUsed": [
+                "python",
+                "pyautogui",
+                "tkinter"
+            ],
+            "tags": [
+                "screen-recording",
+                "python",
+                "autmation"
+            ],
+            "info": [
+                "Screen recorder developed using Python modules PyAutoGUI, PIL and TKinter."
+            ],
+            "link": "https://github.com/moghya/followscreen"
+        },
+        {
+            "show": true,
+            "sn": 8,
+            "projectTitle": "Digital Library Portal",
+            "periodStart": "Feb'17",
+            "periodEnd": "May'17",
+            "toolsUsed": [
+                "QuilJs",
+                "php",
+                "mysql",
+                "JavaScript"
+            ],
+            "tags": [
+                "webapp",
+                "php",
+                "mysql",
+                "js",
+                "materialize"
+            ],
+            "info": [
+                "Developed a Digital Library Portal for College Library as PHP, MySQL web application.",
+                "All of the sections are dynamic & everything is editable using Admin Panel.",
+                "Used Quill-Js for implementing Editor for Admin.."
+            ],
+            "link": "#"
+        },
+        {
+            "show": true,
+            "sn": 5,
+            "projectTitle": "Book Bank Allotment System",
+            "periodStart": "Jan'17",
+            "periodEnd": "May'17",
+            "toolsUsed": [
+                "php",
+                "mongodb",
+                "js"
+            ],
+            "tags": [
+                "mongodb",
+                "nosql",
+                "php"
+            ],
+            "info": [
+                "Developed a Web Application using PHP & MongoDB for Book Bank Allotment done by AGCL library of WCE, Sangli.",
+                "Automated manual process of allocation by reducing time taken from almost 15-20 days to a few minutes."
+            ],
+            "link": "#"
+        },
+        {
+            "show": true,
+            "sn": 4,
+            "projectTitle": "Detection & Prevention of Black hole Attack in MANET",
+            "periodStart": "Jul'16",
+            "periodEnd": "Nov'16",
+            "toolsUsed": [
+                "c++",
+                "ns2",
+                "tcl",
+                "awk"
+            ],
+            "tags": [
+                "c++",
+                "blackhole-attack",
+                "ns2"
+            ],
+            "info": [
+                "Made changes in AODV protocol to simulate Black hole attack in Mobile & Adhoc Network using NS2​",
+                "Implemented techniques for prevention of the Attack."
+            ],
+            "link": "#"
+        },
+        {
+            "show": true,
+            "sn": 10,
+            "projectTitle": "JNV Washim Alumni Portal",
+            "periodStart": "Dec'15",
+            "periodEnd": "Jan'16",
+            "toolsUsed": [
+                "php",
+                "mysql",
+                "js"
+            ],
+            "tags": [
+                "webapp",
+                "php",
+                "mysql",
+                "js"
+            ],
+            "info": [
+                "Developed a Web Application for Alumni Portal of Jawahar Navodaya Vidyalaya,Washim.",
+                "It was developed using PHP, HTML, CSS, JavaScript, Bootstrap. All out of scratch. We used MySQL database.",
+                "Alumni of JNV Washim have to register here with there details & we can search for Alumnus with filters."
+            ],
+            "link": "#"
+        },
+        {
+            "show": true,
+            "sn": 6,
+            "projectTitle": "toGithub",
+            "periodStart": "May'17",
+            "periodEnd": "Present",
+            "toolsUsed": [
+                "python",
+                "PyGithub",
+                "requests",
+                "beautifulsoup"
+            ],
+            "tags": [
+                "scraping",
+                "git-api"
+            ],
+            "info": [
+                "Python utility developed for scraping solutions from Sport Programming Websites & uploding them to Github."
+            ],
+            "link": "https://github.com/moghya/toGithub"
+        },
+        {
+            "show": true,
+            "sn": -1,
+            "projectTitle": "Cheat Bot using Deep Learning",
+            "periodStart": "Jun'18",
+            "periodEnd": "Jun'18",
+            "toolsUsed": [
+                "python",
+                "numpy",
+                "PIL",
+                "requests",
+                "tf"
+            ],
+            "tags": [],
+            "info": [
+                "Reverse engineered an android game involving betting over solving math equations.",
+                "Trained a CNN model with 98.79% accuracy to solve the equations"
+            ],
+            "link": "https://medium.com/howcatcancode/how-i-hacked-747-game-7ecffdc74718"
+        },
+        {
+            "show": true,
+            "sn": -2,
+            "projectTitle": "In Memory key-value Store",
+            "periodStart": "Jun'21",
+            "periodEnd": "Present",
+            "toolsUsed": [
+                "c++",
+                "cmake"
+            ],
+            "tags": [],
+            "info": [
+                "Developed a Multithread key-value store application using C++, Network Socket Programing.",
+                "Working to make it a gRPC based distributed key-value store."
+            ],
+            "link": "https://github.com/moghya/key-value-store"
+        }
+    ],
+    "summary": "<p>Hello,</p><p>Shubham is a Computer Science professional. He's interested in Algorithms, Distributed Systems, System Software, Web Applications & Machine Learning. He graduated with B. Tech  in Information Technology. Shubham has 3+ years of full-time experience as Software Design & Development Engineer. </p><p>Shubham is Passionate about Programming & delivering Well-Designed, Correct, Clean, Test-Covered & Scalable software solutions. He Seeks to Learn & Tries to all in a way that Makes Life Easier. </p><p>He's currently working at Bloomberg Lp as Senior Software Engineer. At Bloomberg, he's developing Trading Software using Modern C++ & FIX. Before that he was at Cohesity,  A Data Management Company. At Cohesity, he was developing Distributed System Software using Modern C++. Before Cohesity, Shubham was at Media.Net, An AdTech Company. At Media.Net, he was developing Full-stack Web & Desktop applications for search monetisation. </p>",
+    "profileLinks": [{
+            "name": "Github",
+            "icon": "github.svg",
+            "link": "https://github.com/moghya",
+            "sn": 2
+        },
+        {
+            "name": "LinkedIn",
+            "icon": "linkedin.svg",
+            "link": "https://www.linkedin.com/in/moghya",
+            "sn": 1
+        },
+        {
+            "name": "Twitter",
+            "icon": "twitter.svg",
+            "link": "https://twitter.com/moghya",
+            "sn": 3
+        },
+        {
+            "name": "Medium",
+            "icon": "medium.svg",
+            "link": "https://medium.com/howcatcancode",
+            "sn": 4
+        },
+        {
+            "name": "StackOverflow",
+            "icon": "stack-overflow.png",
+            "link": "https://stackoverflow.com/users/5186709/moghya",
+            "sn": 5
+        }
+    ],
+    "likes": [{
+            "name": "Programming",
+            "icon": "programming.svg",
+            "sn": 1
+        },
+        {
+            "name": "Maths",
+            "icon": "maths.svg",
+            "sn": 2
+        },
+        {
+            "name": "Armed Forces",
+            "icon": "soldier.svg",
+            "sn": 3
+        },
+        {
+            "name": "Reading",
+            "icon": "book.svg",
+            "sn": 4
+        },
+        {
+            "name": "Singing",
+            "icon": "singer.svg",
+            "sn": 5
+        },
+        {
+            "name": "Watermelon",
+            "icon": "watermelon.svg",
+            "sn": 6
+        },
+        {
+            "name": "Chicken",
+            "icon": "chicken.svg",
+            "sn": 7
+        },
+        {
+            "name": "Cycling",
+            "icon": "cycling.svg",
+            "sn": 8
+        },
+        {
+            "name": "Trekking",
+            "icon": "trek.svg",
+            "sn": 9
+        },
+        {
+            "name": "Camping",
+            "icon": "tent.svg",
+            "sn": 10
+        }
+    ],
+    "qoutes": [
+        "Your death is something that happens to everyone else.",
+        "You only live as long as the last person who remembers you.",
+        "Every day every hour turn the pain into power.",
+        "If you cannot be a pencil to write someone's happiness, then try to be an erases to erase someone's sorrows.",
+        "Tabs are better than spaces."
+    ],
+    "helloText": "<p>Dear Visitor, Thank you for visiting my webspace.</p>\n<p>I'm working as Member of Technical Staff at <a href='https://cohesity.com'>Cohesity</a></p>\n<p>Before this I used work as Software Development Engineer at <a href='http://media.net'>Media.Net</a>. I completed  B.Tech Information Technology at <a href='http://walchandsangli.ac.in'>Walchand College of Engineering Sangli</a> & my schooling from <a href='http://jnvwashim.gov.in'>Jawahar Navodaya Vidyalaya, Washim</a>.</p>\n\n<p>I'm interested in Algorithms, System Programming, Distributed Systems & Machine Learning. I overwhelmingly like C++, Python & Javascript :)</p>\n\n<p>How can I help you?</br>I can design, develop & deliver technological solutions to your problems.</p><p>Do we have something in common? If yes, let's have a talk about it & grow together.</p> <p> We don't have anything in common?</br>That's fine,please introduce me something that I'm missing.</p>"
+}

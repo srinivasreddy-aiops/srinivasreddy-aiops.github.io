@@ -1,0 +1,244 @@
+div.content {
+    display: none;
+}
+
+.progress {
+    background-color: white;
+    margin: 25% 0 0 0;
+}
+
+.progress .indeterminate {
+    background-color: #1f1f1f;
+}
+
+#name {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    /* color: #01a252; */
+    color: teal;
+}
+
+.position {
+    text-align: right;
+}
+
+.project .col {
+    padding: 0;
+}
+
+.work .col {
+    padding: 0;
+}
+
+.education .col {
+    padding: 0;
+}
+
+#name sub {
+    font-size: 30%;
+    text-transform: lowercase;
+}
+
+.content-text {
+    text-align: justify;
+}
+
+#content {
+    position: absolute;
+    top: 5%;
+}
+
+@media screen and (max-width: 1080px) {
+    #content {
+        top: 10%;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    #content {
+        top: 5%;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    #content {
+        top: 5%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    #content {
+        top: 10%;
+    }
+}
+
+#content .row {
+    margin-bottom: 0px;
+}
+
+
+/* .page {
+    max-width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+} */
+
+
+/* hr {
+    max-width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+} */
+
+.details span {
+    text-align: justify;
+    display: block;
+}
+
+.teamName {
+    color: #663399;
+}
+
+.row.project,
+.row.education,
+.row.work {
+    padding: 1%;
+}
+
+#links .col.s2 {
+    padding: 0;
+}
+
+.tag {
+    font-style: italic;
+}
+
+#tabs {
+    position: fixed;
+    width: 100%;
+    background-color: #1f1f1d;
+    z-index: 9999;
+}
+
+#tabs span {
+    float: left;
+    padding-left: 1%;
+    text-align: center;
+}
+
+#content {}
+
+#skills .row {
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.gratitudes a {
+    float: left;
+    padding: 1%;
+}
+
+.skill {
+    text-align: center;
+}
+
+.skill .icon {
+    font-size: 3em;
+}
+
+.skill span {
+    display: block;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.tools {
+    overflow: scroll;
+}
+
+#skills .m2 {
+    width: 14.666%;
+    margin: 1%;
+    padding: 2%;
+    border-radius: 50%;
+    font-size: 1.15rem;
+    text-align: center;
+}
+
+.education.col.s12,
+.work.col.s12 {
+    margin: 1%;
+}
+
+object {
+    width: 16%;
+    margin: 1%;
+}
+
+#contact {
+    text-align: center;
+}
+
+#moghyaSays {
+    font-size: 1rem;
+}
+
+.period {
+    text-align: right;
+}
+
+.golden {
+    color: #d3a04d;
+    background-color: none;
+}
+
+.score {
+    text-align: right;
+}
+
+a {
+    color: green;
+}
+
+* {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #1f1f1d;
+    /* background-color: #646464; */
+    color: #b6b6b6;
+    font-family: "Lekton", monospace;
+    font-size: 1.15rem;
+    font-display: auto;
+}
+
+h6 {
+    font-size: 1.15rem;
+}
+
+.swal-button {
+    color: white;
+    background-color: #1f1f1f;
+    box-shadow: none !important;
+    text-align: justify;
+}
+
+button:focus {
+    color: white !important;
+    background-color: #1f1f1f !important;
+}
+
+button:hover {
+    color: white !important;
+    background-color: #1f1f1f !important;
+}
+
+.swal-button-container {
+    display: inline;
+}
